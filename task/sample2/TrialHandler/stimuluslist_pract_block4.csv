@@ -1,0 +1,9 @@
+sessionNr,trialNr,isActionCue,isStakes,isReleaseCue,isOutcome,cue,reqAction,reqSide,rewLeft,angle,rewMag,punMag,goValidity,nogoValidity,isCatch,ISI,ITI
+1,1,1,1,1,1,Pract_Go,1,0,0,24,4,3,1,1,0,0.4,1.7
+1,2,1,1,1,1,Pract_NoGo,0,1,0,-21,3,2,1,1,0,0.1,1.3
+1,3,1,1,1,1,Pract_Go,1,1,1,-23,3,2,1,1,1,0.5,1.7
+1,4,1,1,1,1,Pract_NoGo,0,0,1,21,1,5,1,1,1,0.2,1.3
+1,5,1,1,1,1,Pract_Go,1,0,0,-36,2,4,1,1,0,0.1,1.5
+1,6,1,1,1,1,Pract_Go,1,0,1,-23,3,4,1,1,1,0.4,1.4
+1,7,1,1,1,1,Pract_NoGo,0,1,1,31,3,5,1,1,0,0.5,1.3
+1,8,1,1,1,1,Pract_NoGo,0,1,0,38,1,2,1,1,1,0.2,1.3
